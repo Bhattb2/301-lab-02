@@ -16,21 +16,25 @@ Feature 1: Display Images
     
     Estimate of time needed to complete: 1.5 hours
 
-    Start time: 4: 00 pm 
+    Start time: 12:00 pm 
 
-    Finish time: 6:00 pm
+    Finish time: 2:30 pm
 
     Actual time needed to complete: 2 hours
+
+    Struggled to get the images to render and live server to display the images.
 
 Feature 2: Filter Images
     
     Estimate of time needed to complete: 3 hours
 
-    Start time: 
+    Start time: 3:30 pm
 
-    Finish time: 
+    Finish time: 8.45 pm
 
-    Actual time needed to complete: 
+    Actual time needed to complete: 5 hours
+
+    Lon, tedious, drawn process. Lot of googling and trail and error.
 
 Feature 3: Style the application
     
