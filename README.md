@@ -40,9 +40,9 @@ Feature 3: Style the application
     
     Estimate of time needed to complete: 2 hours
 
-    Start time: _____
+    Start time: 9:00 pm
 
-    Finish time: _____
+    Finish time: 10:15 pm
 
-    Actual time needed to complete: _____
+    Actual time needed to complete: 1.25 hours
 
