@@ -16,11 +16,11 @@ Feature 1: Display Images
     
     Estimate of time needed to complete: 1.5 hours
 
-    Start time: 
+    Start time: 4: 00 pm 
 
-    Finish time: 
+    Finish time: 6:00 pm
 
-    Actual time needed to complete: 
+    Actual time needed to complete: 2 hours
 
 Feature 2: Filter Images
     
