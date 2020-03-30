@@ -1,40 +1,40 @@
 ## Lab-02
 Lab-02 jQuery Selectors and Events
 
-User Stories
+### User Stories
 
-MVP
+## MVP
     1. As a user, I want to view the images on the page so that I can browse the photo collection.
+
     2. As a user, I want to be able to filter the images so that I can view only images that match a keyword.
+
     3. As a user, I want a simple, clean looking UI so that my photo gallery clearly displays the images in a grid like pattern.
 
-## Time Estimates
+### Time Estimates
 
 Feature 1: Display Images
     
     Estimate of time needed to complete: 1.5 hours
 
-    Start time: 0940_
+    Start time: 4: 00 pm 
 
-    Finish time: 1039___
+    Finish time: 6:00 pm
 
-    Actual time needed to complete: 40min_
-
-    Add this information to your README.
+    Actual time needed to complete: 2 hours
 
 Feature 2: Filter Images
     
     Estimate of time needed to complete: 3 hours
 
-    Start time: 10:40_
+    Start time: 
 
-    Finish time: _1:40
+    Finish time: 
 
-    Actual time needed to complete: 3hours___
+    Actual time needed to complete: 
 
 Feature 3: Style the application
     
-    Estimate of time needed to complete: _____
+    Estimate of time needed to complete: 2 hours
 
     Start time: _____
 
